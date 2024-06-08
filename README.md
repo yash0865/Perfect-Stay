@@ -1,5 +1,5 @@
 # Perfect Stay
-<h3> "Perfect Stay" is a hotel booking platform where users can search for hotels by name, city, or area, view detailed information (photos, facilities, reviews, prices), and save favorites. Built with React, Express, Node.js, MongoDB, and Tailwind CSS, it offers a seamless and responsive user experience. <h3/>
+"Perfect Stay" is a hotel booking platform where users can search for hotels by name, city, or area, view detailed information (photos, facilities, reviews, prices), and save favorites. Built with React, Express, Node.js, MongoDB, and Tailwind CSS, it offers a seamless and responsive user experience.
 
 Login Screen
 
