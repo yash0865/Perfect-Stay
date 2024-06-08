@@ -1,0 +1,19 @@
+.register-form {
+    border-radius: 14px;
+    background: #ffffff;
+    box-shadow: 14px 14px 27px #d6d6d6,
+        -14px -14px 27px #ffffff;
+}
+
+input {
+    border-bottom: 2px solid gray;
+    padding: 0.5rem 2rem;
+    width: 100%;
+    text-align: center;
+}
+
+input:focus{
+    outline: none;
+}
+
+input::placeholder { text-align: center; }
