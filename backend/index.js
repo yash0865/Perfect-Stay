@@ -14,11 +14,7 @@ const PORT = process.env.PORT;
 
 dotenv.config();
 
-app.use(cors({
-    origin:[""],
-    methods:["POST","GET"],
-    credentials:true
-}));
+app.use(cors());
 
 app.use(bodyParser.urlencoded({ extended: false }))
 
